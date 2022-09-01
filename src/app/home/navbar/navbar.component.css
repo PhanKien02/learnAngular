@@ -18,7 +18,7 @@ a {
 }
 
 .logo span {
-    color: #e99c2e;
+    color: #E99C2F;
 }
 
 .nav {
@@ -36,11 +36,11 @@ a {
 
 .active {
     padding-left: 150px;
-    color: #e99c2e;
+    color: #E99C2F;
 }
 
 .nav-link:hover {
-    color: #e99c2e;
+    color: #E99C2F;
 }
 
 .icon {
@@ -58,7 +58,7 @@ a {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background-color: #e99c2e;
+    background-color: #E99C2F;
     display: flex;
     justify-content: center;
     margin-top: -5px;
