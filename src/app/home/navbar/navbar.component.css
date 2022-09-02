@@ -9,11 +9,11 @@ a {
     width: 100%;
     font-weight: 500;
     line-height: 30px;
+    padding-bottom: 56px;
 }
 
 .logo {
     display: inline;
-    padding-left: 40px;
     font-size: 24px;
 }
 
@@ -30,13 +30,14 @@ a {
 
 .nav-item {
     list-style: none;
-    margin-left: 50px;
+    /* margin-left: 20px; */
 
 }
 
 .active {
     padding-left: 150px;
     color: #E99C2F;
+    padding-left: 200px;
 }
 
 .nav-link:hover {
