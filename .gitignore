@@ -40,3 +40,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+src/app/home/navbar/navbar.component.html
+src/app/home/navbar/navbar.component.ts
